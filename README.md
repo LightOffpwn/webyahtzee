@@ -1,2 +1,3 @@
 # webyahtzee
-yahtzee game I made
+
+jeu du yahtzee
